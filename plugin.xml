@@ -229,8 +229,6 @@
         <source-file src="libs/Android/appodeal-banner-view-2.3.0.jar" target-dir="libs" />
         <source-file src="libs/Android/chartboost-6.6.3.jar" target-dir="libs" />
         <source-file src="libs/Android/dagger-2.7.jar" target-dir="libs" />
-        <source-file src="libs/Android/eventbus-2.2.1.jar" target-dir="libs" />
-        <source-file src="libs/Android/facebook-4.25.0.jar" target-dir="libs" />
         <source-file src="libs/Android/ironsource-6.6.2.1.jar" target-dir="libs" />
         <source-file src="libs/Android/javax.inject-1.jar" target-dir="libs" />
         <source-file src="libs/Android/rxjava-1.2.0.jar" target-dir="libs" />
