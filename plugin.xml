@@ -241,7 +241,6 @@
         <source-file src="libs/Android/picasso-2.5.2.jar" target-dir="libs" />
         <source-file src="libs/Android/mailru-4.6.17.jar" target-dir="libs" />
         <source-file src="libs/Android/unity_ads-2.1.0.jar" target-dir="libs" />
-        <source-file src="libs/Android/yandex-metrica-2.73.jar" target-dir="libs" />
 		<source-file src="libs/Android/startapp-3.6.2.jar" target-dir="libs" />
         <framework src="libs/Android/adcolony" custom="true" />
     </platform>
